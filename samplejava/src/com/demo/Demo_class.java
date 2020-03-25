@@ -53,6 +53,7 @@ public static void main(String[] args) {
 		System.out.println("pass");
 	}else{
 		System.out.println("fail");
+		System.out.println("gitup testing");
 	}
 	
 	
